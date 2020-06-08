@@ -14,9 +14,9 @@ So, one fret = a semitone = a half step. From D to D♯ for instance.
 
 ### Examples
 
-> - fretFreq(5, 12) ➞ 220
-> - fretFreq(4, 6) ➞ 207.65
-> - fretFreq(2, 23) ➞ 932.32
+> fretFreq(5, 12) ➞ 220__
+> fretFreq(4, 6) ➞ 207.65__
+> fretFreq(2, 23) ➞ 932.32
 
 ### Notes
 N/A
