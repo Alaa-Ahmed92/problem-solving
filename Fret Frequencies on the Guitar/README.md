@@ -4,7 +4,7 @@
 
 Create a function that takes a number of a guitar string and the number of the fret and returns the corresponding frequency of the note.
 
-- The formula to calculate the frequency is: String Frequency * 2^(fret/12).
+- The formula to calculate the frequency is: `String Frequency * 2^(fret/12)`.
 - Round the frequency to the nearest hundreth.
 - For this challenge, we use "Standard Tuning".
 
